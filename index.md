@@ -12,7 +12,7 @@ I am a student at South Hills School of Business & Technology studying:
 
 # Contact Me
 * Email: joshua.stevens.work@gmail.com
-* Github: joshua-stevens
+* Github: [joshua-stevens](https://github.com/joshua-stevens)
 
 
 
